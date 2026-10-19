@@ -4,4 +4,7 @@ func main() {
 	ifDemo()
 	forDemo()
 	funcDemo()
+	varDemo()
+	pointerDemo()
+	stringDemo()
 }
